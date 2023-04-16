@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
       name: '老友',
-      description: 'Contact on <a href="mailto:hhy@outlook.my" class="text-blue-500 >Email</a>',
+      description: 'Contact on <a href="mailto:hhy@outlook.my" class="text-blue-500" >Email</a>',
     },
   }
 }
